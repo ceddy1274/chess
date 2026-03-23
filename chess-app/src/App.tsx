@@ -5,7 +5,7 @@ function App() {
     <>
       <section id="center">
         <div>
-          <h1>Chess App</h1>
+          <h1>Chess App By Cameron Eddy</h1>
         </div>
       </section>
     </>
