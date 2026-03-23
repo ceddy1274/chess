@@ -1,2 +1,0 @@
-# chess
-A chess app
